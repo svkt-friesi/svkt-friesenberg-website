@@ -29,8 +29,8 @@ Möchtest du ein Angebot ausprobieren?
     <div class="kachel" style="background-image: url('{{ '/assets/images/kacheln/kitu_kachel.jpg' | relative_url }}')">
         <a href="{{ '/kitu' | relative_url }}">
             <div class="kachel-inhalt">
-                <div class="kachel-titel">Kinder-Turnen (KiTu)</div>
-                <div class="kachel-beschreibung">Jahresbeitrag: 100.–</div>
+                <div class="kachel-titel"><s>Kinder-Turnen (KiTu)</s></div>
+                <div class="kachel-beschreibung">Momentan kein Angebot</div>
             </div>
         </a>
     </div>
