@@ -1,6 +1,6 @@
 ---
 layout: jede-seite
-title: KiTu (Kinderturnen) Momentan kein Angebot
+title: <s>KiTu (Kinderturnen)</s> <b>Momentan kein Angebot</b>
 permalink: /kitu/
 ---
 
