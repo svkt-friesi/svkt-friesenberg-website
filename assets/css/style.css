@@ -1,3 +1,9 @@
+:root {
+    --primary-color: #0d75bc;
+    --primary-color-light: color-mix(in srgb, var(--primary-color) 30%, white);
+    --secondary-color: #ef7d00;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -21,7 +27,7 @@ html, body {
 h1 {
     font-weight: normal;
     font-size: 35px;
-    background-color: rgb(33,97,176);
+    background-color: var(--primary-color);
     color: White;
     padding: 15px;
     margin-top: 70px;
@@ -92,6 +98,12 @@ p {
     box-shadow: rgba(0, 0, 0, 0.75) 0px 3px 8px;
     margin-bottom: 1rem;
     margin: 0rem 1rem 1rem 0;
+}
+
+.kachel a,a:active,a:visited {
+    color: var(--primary-color);
+    font-weight: bold;
+    text-shadow: 0 0 5px var(--primary-color-light), 0 0 10px var(--primary-color-light), 0 0 15px var(--primary-color-light); 
 }
 
 .kachel .kachel-inhalt {
