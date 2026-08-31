@@ -5,7 +5,7 @@ permalink: /volleyball/
 ---
 
 <div class="grundtext">
-    Die Volleyballerinnen (ab 18-Jährige bis oben offen) trainieren wöchentlich 1¾ Stunden. Das Team spielt in der 2. Liga (ohne Lizens). Das heisst, dass vom August bis Dezember die Vorrunden der Mätche ausgetragen und vom Januar bis April die Rückrunden gespielt werden.<br><br>
+    Die Volleyballerinnen (ab 18-Jährige bis oben offen) trainieren wöchentlich 1¾ Stunden. Das Team spielt in der 1. Liga (ohne Lizens). Das heisst, dass vom August bis Dezember die Vorrunden der Mätche ausgetragen und vom Januar bis April die Rückrunden gespielt werden.<br><br>
 
     <h2> Donnerstag</h2>
     <h3> Zeit:</h3>
@@ -17,7 +17,7 @@ permalink: /volleyball/
     Matchdaten, noch offen
     <br><br>
     Rangliste "Zürcher Turnverband"
-    GLZ - Resultate Damen 2. Liga<br><br>
+    GLZ - Resultate Damen 1. Liga<br><br>
 
     <a href="{{ '/' | relative_url }}">Zurück zu Home</a>
 
