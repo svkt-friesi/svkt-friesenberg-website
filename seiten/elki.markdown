@@ -16,7 +16,7 @@ permalink: /elki/
 
     <h2> Montag </h2>
     <h3> Gruppe 1:</h3>
-    09.45 bis 10.30 Uhr, mit Kinderhüte<br>
+    09.45 bis 10.30 Uhr, Kinderhüte auf Anfrage<br>
     <h3> Ort:</h3>
     <a href="https://maps.app.goo.gl/tnHCzy9u8PP5svrq5" target="_blank">Kirche St.Theresia,</a><br>
     im Theresiensaal, Borrweg 78,
