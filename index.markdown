@@ -60,7 +60,7 @@ Möchtest du ein Angebot ausprobieren?
         <a href="{{ '/volleyball' | relative_url }}">
             <div class="kachel-inhalt">
                 <div class="kachel-titel">Volleyball</div>
-                <div class="kachel-beschreibung">(1½ Stunden, Fr. 180.– / pro Jahr)</div>
+                <div class="kachel-beschreibung">(1½ Stunden, Fr. 220.– / pro Jahr)</div>
             </div>
         </a>
     </div>
@@ -68,7 +68,7 @@ Möchtest du ein Angebot ausprobieren?
         <a href="{{ '/fitness' | relative_url }}">
             <div class="kachel-inhalt">
                 <div class="kachel-titel">Fitness</div>
-                <div class="kachel-beschreibung">(1½ Stunden, Fr. 170.– / pro Jahr)</div>
+                <div class="kachel-beschreibung">(1½ Stunden, Fr. 180.– / pro Jahr)</div>
             </div>
         </a>
     </div>
@@ -76,7 +76,7 @@ Möchtest du ein Angebot ausprobieren?
         <a href="{{ '/gymnastik' | relative_url }}">
             <div class="kachel-inhalt">
                 <div class="kachel-titel">Gymnastik</div>
-                <div class="kachel-beschreibung">(1 Stunde, Fr. 150.– / pro Jahr)</div>
+                <div class="kachel-beschreibung">(1 Stunde, Fr. 160.– / pro Jahr)</div>
             </div>
         </a>
     </div>
@@ -84,7 +84,7 @@ Möchtest du ein Angebot ausprobieren?
         <a href="{{ '/sen-gym' | relative_url }}">
             <div class="kachel-inhalt">
                 <div class="kachel-titel">[Gymnastik für Seriorinnen</div>
-                <div class="kachel-beschreibung">(1 Stunde, Fr. 150.– / pro Jahr)</div>
+                <div class="kachel-beschreibung">(1 Stunde, Fr. 160.– / pro Jahr)</div>
             </div>
         </a>
     </div>
