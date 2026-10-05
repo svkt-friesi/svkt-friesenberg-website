@@ -7,6 +7,8 @@ permalink: /volleyball-plausch/
 <div class="grundtext">
     Die Volleyballerinnen (ab 16-Jährige bis oben offen) treffen sich wöchentlich, um 1 Stunde Volleyball zu spielen. Ob eher Anfängerin oder bereits schon längere Zeit Volleyballerin - in dieser Gruppe werden Techniken gelernt, gefestigt und danach im Spiel umgesetzt. Wir freuen uns auf viele interessierte Frauen, die in der Plauschgruppe Volleyball spielen möchten. Eine erfahrene 1.-Liga-Spieler leitet diese Gruppe.<br><br>
 
+{% include probetraining.md %}
+
     <h2> Donnerstag (Plauschgruppe) </h2>
     <h3> Zeit:</h3>
     19 bis 20.15 Uhr

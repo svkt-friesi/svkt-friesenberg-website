@@ -5,7 +5,10 @@ permalink: /mae-tu/
 ---
 
 <div class="grundtext">
-    Für Mädchen ab der ersten Klasse bieten wir das Mädchenturnen an. Unsere Leiterinnen bereiten die Lektionen mit Leichtathletik, Spiele, Gymnastik (Tänzli) und Geräteturnen vor. Dabei wird nicht nur etwas für die Fitness getan, sondern es werden viele neue Kolleginnen kennengelernt. Neben den sportlichen Aktivitäten in der Turnhalle wagen wir uns zum Beispiel auf’s Glatteis, suchen im Wald einen Schatz, gehen Baden und turnen auch mal mit dem Trottinet.
+    Für Mädchen ab der ersten Klasse bieten wir das Mädchenturnen an. Unsere Leiterinnen bereiten die Lektionen mit Leichtathletik, Spiele, Gymnastik (Tänzli) und Geräteturnen vor. Dabei wird nicht nur etwas für die Fitness getan, sondern es werden viele neue Kolleginnen kennengelernt. Neben den sportlichen Aktivitäten in der Turnhalle wagen wir uns zum Beispiel auf’s Glatteis, suchen im Wald einen Schatz, gehen Baden und turnen auch mal mit dem Trottinet.<br><br>
+
+    {% include probetraining.md %}
+
 </div>
 
 <img src="{{ '/assets/images/gruppen/maetu1.jpg' | relative_url }}" class="hero-image" />

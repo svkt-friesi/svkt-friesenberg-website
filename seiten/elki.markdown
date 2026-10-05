@@ -11,8 +11,9 @@ permalink: /elki/
 <img src="{{ '/assets/images/gruppen/elki2.jpeg' | relative_url }}" class="hero-image" />
 
 <div class="grundtext">
-    Information und Anmeldung: <a href="mailto:info.elki@svkt-friesenberg.ch">info.elki@svkt-friesenberg.ch</a>
-    
+    Fragen? <a href="mailto:info.elki@svkt-friesenberg.ch">info.elki@svkt-friesenberg.ch</a><br><br>
+
+{% include probetraining.md %}
 
     <h2> Montag </h2>
     <h3> Gruppe 1:</h3>

@@ -5,10 +5,11 @@ permalink: /fitness/
 ---
 
 <div class="grundtext">
-    Wer Dynamik und viel Bewegung liebt, ist im Fitness-Training richtig. Das Angebot Fitness wird in 3 Teile aufgebaut. Im ersten Teil gehen die Übungen in Richtung Aerobic, wo Ausdauer und Koordination trainiert wird. Der zweite Teil ist für die Kräftigung gedacht. Beim dritten Teil treten Spiel und Action in den Vordergrund. Der Spass ist in dieser Gruppe immer dabei.
-</div>
+    Wer Dynamik und viel Bewegung liebt, ist im Fitness-Training richtig. Das Angebot Fitness wird in 3 Teile aufgebaut. Im ersten Teil gehen die Übungen in Richtung Aerobic, wo Ausdauer und Koordination trainiert wird. Der zweite Teil ist für die Kräftigung gedacht. Beim dritten Teil treten Spiel und Action in den Vordergrund. Der Spass ist in dieser Gruppe immer dabei.<br><br>
 
-<img src="{{ '/assets/images/gruppen/fitness.jpeg' | relative_url }}" class="hero-image" />
+{% include probetraining.md %}
+
+</div>
 
 <div class="grundtext">
     <h2> Dienstag </h2>
@@ -21,3 +22,5 @@ permalink: /fitness/
     <a href="{{ '/' | relative_url }}">Zurück zu Home</a>
     
 </div>
+
+<img src="{{ '/assets/images/gruppen/fitness.jpeg' | relative_url }}" class="hero-image" />

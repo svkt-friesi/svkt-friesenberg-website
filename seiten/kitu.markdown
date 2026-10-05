@@ -11,6 +11,8 @@ permalink: /kitu/
 <img src="{{ '/assets/images/gruppen/kitu1.jpg' | relative_url }}" class="hero-image" />
 
 <div class="grundtext">
+    {% include probetraining.md %}
+
     <h2> Montag</h2>
     <h3> Zeit:</h3>
     16.45 bis 17.45 Uhr

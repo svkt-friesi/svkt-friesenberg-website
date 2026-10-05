@@ -15,6 +15,8 @@ permalink: /gymnastik/
     Hier fühlt sich wohl, wer sich regelmässig sportlich betätigen will.
     Hier kommt die Frau ins Schwitzen. Tatsächlich ;-) .<br><br>
 
+    {% include probetraining.md %}
+
     <h2> Dienstagmorgen<br><span class="note">(SUS Erwachsenensport II)</span></h2>
 
     <h3> Zeit:</h3>

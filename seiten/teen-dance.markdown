@@ -11,6 +11,9 @@ permalink: /teen-dance/
 <img src="{{ '/assets/images/gruppen/teendance.jpg' | relative_url }}" class="hero-image" />
 
 <div class="grundtext">
+
+    {% include probetraining.md %}
+
     <h2> Montag</h2>
     <h3> Zeit:<br></h3>
     19 bis 20 Uhr

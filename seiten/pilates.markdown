@@ -5,12 +5,14 @@ permalink: /pilates/
 ---
 
 <div class="grundtext">
-    Auch im 2025 ist unser Pilates-Angebot für ALLE offen. Das heisst, dass Frauen und Männer gemeinsam am Pilates-Training teilnehmen können.
+    Auch im 2026 ist unser Pilates-Angebot für ALLE offen. Das heisst, dass Frauen und Männer gemeinsam am Pilates-Training teilnehmen können.
 
-    Pilates gibt ein starkes Körpergefühl, eine gute Haltung und elegante Bewegungen. Auch das Zusammenspiel von Atmung und Bewegung, Kraft und Beweglichkeit führt zu einem verbesserten Bewegungs- und Körpergefühl.
+    Pilates gibt ein starkes Körpergefühl, eine gute Haltung und elegante Bewegungen. Auch das Zusammenspiel von Atmung und Bewegung, Kraft und Beweglichkeit führt zu einem verbesserten Bewegungs- und Körpergefühl.<br><br>
+
+    {% include probetraining.md %}
 
     <h2> Aktion "10er-Nötli"</h2>
-    Von den Frühlingsferien bis zu den Sommerferien 2026 läuft die Aktion "10er-Nötli". Jede Person kann ohne Anmeldung um 10 Uhr ins Training kommen. Mitnehmen: Turn-Tenue und äs 10er-Nötli.
+    Von den Frühlingsferien bis zu den Sommerferien 2027 läuft die Aktion "10er-Nötli". Jede Person kann ohne Anmeldung um 10 Uhr ins Training kommen. Mitnehmen: Turn-Tenue und äs 10er-Nötli.
 
     Bis bald :-).
 

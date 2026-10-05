@@ -92,7 +92,7 @@ Möchtest du ein Angebot ausprobieren?
     <div class="kachel" style="background-image: url('{{ '/assets/images/kacheln/sengym_kachel.png' | relative_url }}')">
         <a href="{{ '/sen-gym' | relative_url }}">
             <div class="kachel-inhalt">
-                <div class="kachel-titel">[Gymnastik für Seriorinnen</div>
+                <div class="kachel-titel">[Gymnastik für Seniorinnen</div>
                 <div class="kachel-beschreibung">(1 Stunde, Fr. 160.– / pro Jahr)</div>
             </div>
         </a>

@@ -7,7 +7,10 @@ permalink: /lada/
 <div class="grundtext">
     Das Latin-Aerobic-Dance ist ein vom Latino-Lebensgefühl inspiriertes Tanz- und Fitness-Programm mit südamerikanischer und internationaler Musik und Tanzstilen.
 
-    Wer Fitness eher langweilig findet, aber doch fit bleiben möchte und den Rhythmus liebt, dann ist Latin-Aerobic-Dance das Richtige. Egal welches Alter man hat oder man das Gefühl hat nicht tanzen zu können – tanzend Fitness zu betreiben, macht Spass! Jedesmal ist die Stimmung, als wäre man auf einer Party und nicht in einer Turnhalle ;-).
+    Wer Fitness eher langweilig findet, aber doch fit bleiben möchte und den Rhythmus liebt, dann ist Latin-Aerobic-Dance das Richtige. Egal welches Alter man hat oder man das Gefühl hat nicht tanzen zu können – tanzend Fitness zu betreiben, macht Spass! Jedesmal ist die Stimmung, als wäre man auf einer Party und nicht in einer Turnhalle ;-).<br><br>
+
+    {% include probetraining.md %}
+    
 </div>
 
 <img src="{{ '/assets/images/gruppen/lada1.jpeg' | relative_url }}" class="hero-image" />

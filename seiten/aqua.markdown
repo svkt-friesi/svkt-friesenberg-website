@@ -5,7 +5,9 @@ permalink: /aqua/
 ---
 
 <div class="grundtext">
-    Durch das Training im Wasser wird die Kraft, Beweglichkeit und Ausdauer gesteigert und die Entspannung gefördert. Der Wasserauftrieb schont die Gelenke, der Wasserwiderstand fördert Muskelkraft und Ausdauer. Das Training im Wasser ist für jede Altersstufe geeignet. Wenn es am Körper irgendwo zwickt, das Gewicht nicht der Norm entspricht, hilft das Wasser den Körper zu tragen. So kann die Übung in der Schwerelosigkeit ausgeführt werden.
+    Durch das Training im Wasser wird die Kraft, Beweglichkeit und Ausdauer gesteigert und die Entspannung gefördert. Der Wasserauftrieb schont die Gelenke, der Wasserwiderstand fördert Muskelkraft und Ausdauer. Das Training im Wasser ist für jede Altersstufe geeignet. Wenn es am Körper irgendwo zwickt, das Gewicht nicht der Norm entspricht, hilft das Wasser den Körper zu tragen. So kann die Übung in der Schwerelosigkeit ausgeführt werden.<br><br>
+
+{% include probetraining.md %}
 
  <h2> Montag</h2>
     <h3> Zeit:</h3>
@@ -15,9 +17,6 @@ permalink: /aqua/
     Borrweg 81-83
     8055 Zürich
     <br><br>
-
-    <h3> Interessiert?</h3>
-    <a href="https://forms.gle/VoauxpRhUnnZyPwr9" target="_blank" rel="noopener">Hier kannst du dich per Online anmelden</a><br><br>
 
     <a href="{{ '/' | relative_url }}">Zurück zu Home</a>
 
