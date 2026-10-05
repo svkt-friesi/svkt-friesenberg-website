@@ -64,7 +64,6 @@ Möchtest du ein Angebot ausprobieren?
             </div>
         </a>
     </div>
-    <div class="kacheln">
     <div class="kachel" style="background-image: url('{{ '/assets/images/kacheln/volley5_kachel2.jpeg' | relative_url }}')">
         <a href="{{ '/volleyball' | relative_url }}">
             <div class="kachel-inhalt">
