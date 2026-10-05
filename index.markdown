@@ -56,6 +56,15 @@ Möchtest du ein Angebot ausprobieren?
 #### mit Jahresbeitrag
 
 <div class="kacheln">
+    <div class="kachel" style="background-image: url('{{ '/assets/images/kacheln/volly-plausch-kacheln.jpg' | relative_url }}')">
+        <a href="{{ '/volleyball' | relative_url }}">
+            <div class="kachel-inhalt">
+                <div class="kachel-titel">Volleyball – Plausch</div>
+                <div class="kachel-beschreibung">(1 Stunde, Fr. 160.– / pro Jahr)</div>
+            </div>
+        </a>
+    </div>
+    <div class="kacheln">
     <div class="kachel" style="background-image: url('{{ '/assets/images/kacheln/volley5_kachel2.jpeg' | relative_url }}')">
         <a href="{{ '/volleyball' | relative_url }}">
             <div class="kachel-inhalt">
