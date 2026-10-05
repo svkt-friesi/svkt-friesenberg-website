@@ -1,6 +1,6 @@
 ---
 layout: jede-seite
-title: Volleyball
+title: Volleyball – 1. Liga
 permalink: /volleyball/
 ---
 
