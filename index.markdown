@@ -131,4 +131,6 @@ Möchtest du ein Angebot ausprobieren?
 </div>
 
 Kursfreie Zeit,<br>
-während der <a href="https://www.stadt-zuerich.ch/de/bildung/volksschule/schulferien.html?cid=redirect-ssd-schulferien.html#schuljahr_2025_26" target="_blank">Zürcher Schulferienzeit</a><br><br>
+während der Zürcher Schulferienzeit:<br>
+<a href="https://www.stadt-zuerich.ch/de/bildung/volksschule/schulferien.html#schuljahr_2026_27" target="_blank">Schulferien 2026/27</a><br>
+<a href="https://www.stadt-zuerich.ch/de/bildung/volksschule/schulferien.html#schuljahr_2027_28" target="_blank">Schulferien 2027/28</a><br><br>
